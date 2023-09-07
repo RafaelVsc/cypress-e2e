@@ -1,4 +1,4 @@
-// cypress/e2e/signup.cy.js
+/// <reference path="../support/commands.d.ts" />
 
 import { faker } from '@faker-js/faker/locale/en'
 
